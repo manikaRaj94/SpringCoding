@@ -16,12 +16,6 @@ public class Contact {
         this.id = id;
     }
 
-//    public Contact(String name, String email_id, String address, String telephone) {
-//        this.name = name;
-//        this.email_id = email_id;
-//        this.address = address;
-//        this.telephone = telephone;
-//    }
 
     public String getName() {
         return name;
